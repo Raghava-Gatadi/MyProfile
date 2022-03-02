@@ -1,5 +1,6 @@
-# raghava
-## raghava
-### raghava
+# Hello, welcome to my repository
+## This is my first markdown file created from vs code 
 
-hello this is raghava how are you all how are you all im fine what are you doing right now should i help you doing anything 
+This is just a samole of my work
+
+Thankyou :smile:
