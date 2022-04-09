@@ -3,4 +3,4 @@
 
 This is just a sample of my work
 
-Thankyou :smile:
+Thankyou smile :smile:
